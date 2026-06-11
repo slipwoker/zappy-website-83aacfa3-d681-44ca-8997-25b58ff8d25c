@@ -1,0 +1,87 @@
+# Longevity performance coaching lab — Generative Engine Optimization Map
+
+> A science-backed health and fitness coaching brand targeting men aged 40–60+ who are stuck in chronic dieting cycles, struggling with low testosterone, inflammation, and metabolic slowdown. The brand blends nutritional science, exercise physiology, hormone health, and behavioral psychology into a structured, empathetic, no-nonsense 90-day transformation methodology called 'Metabolic Priming.' The tone is authoritative yet approachable — like a knowledgeable coach who genuinely understands the frustrations of aging men trying to get lean and healthy again.
+
+---
+
+## Pages
+
+### Home
+https://longevity-performance-coaching-lab-83aacfa3.zappy5.app
+Break free from chronic dieting and metabolic slowdown with Metabolic Priming. Science-backed body transformation for men 40-60+ ready to reclaim their edge. Start now.
+
+### Services
+https://longevity-performance-coaching-lab-83aacfa3.zappy5.app/services
+A no-nonsense fusion of nutrition science, hormone optimization, and behavioral coaching designed to end inflammation and restart fat loss for aging men.
+
+### About
+https://longevity-performance-coaching-lab-83aacfa3.zappy5.app/about
+Meet the methodology that blends exercise physiology with real empathy. We help men 40+ escape the dieting hamster wheel and build sustainable, lean strength.
+
+### Contact
+https://longevity-performance-coaching-lab-83aacfa3.zappy5.app/contact
+Ready to ditch low energy and stubborn fat? Reach out and lock in your personalized 90-day Metabolic Priming strategy. Your comeback starts with one message.
+
+## Legal & Policy
+
+### Privacy Policy
+https://longevity-performance-coaching-lab-83aacfa3.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://longevity-performance-coaching-lab-83aacfa3.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://longevity-performance-coaching-lab-83aacfa3.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://longevity-performance-coaching-lab-83aacfa3.zappy5.app/contact
+- Endpoint: https://longevity-performance-coaching-lab-83aacfa3.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Longevity performance coaching lab
+A science-backed health and fitness coaching brand targeting men aged 40–60+ who are stuck in chronic dieting cycles, struggling with low testosterone, inflammation, and metabolic slowdown. The brand blends nutritional science, exercise physiology, hormone health, and behavioral psychology into a structured, empathetic, no-nonsense 90-day transformation methodology called 'Metabolic Priming.' The tone is authoritative yet approachable — like a knowledgeable coach who genuinely understands the frustrations of aging men trying to get lean and healthy again.
+
+## Services/Products
+- 90-Day Metabolic Priming Program
+- Nutrition coaching (anti-inflammatory diet, protein targeting)
+- Strength training programming
+- Hormone health guidance
+- Supplement recommendations
+- Mindset and behavioral coaching
+
+## Target Audience
+- men over 40, especially 50+, dealing with weight loss plateaus, inflammation, autoimmune issues, and hormonal decline
+- Men Over 50 Health Challengers
+- Executive Men Under Pressure
+- Retired Active Lifestyle Men
+
+## Industry
+Health & Wellness
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://longevity-performance-coaching-lab-83aacfa3.zappy5.app/sitemap.xml
+- Robots: https://longevity-performance-coaching-lab-83aacfa3.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://longevity-performance-coaching-lab-83aacfa3.zappy5.app/llms-full.txt
