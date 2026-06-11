@@ -7,33 +7,33 @@
 ## Pages
 
 ### Home
-https://longevity-performance-coaching-lab-83aacfa3.zappy5.app
+https://example.com
 Break free from chronic dieting and metabolic slowdown with Metabolic Priming. Science-backed body transformation for men 40-60+ ready to reclaim their edge. Start now.
 
 ### Services
-https://longevity-performance-coaching-lab-83aacfa3.zappy5.app/services
+https://example.com/services
 A no-nonsense fusion of nutrition science, hormone optimization, and behavioral coaching designed to end inflammation and restart fat loss for aging men.
 
 ### About
-https://longevity-performance-coaching-lab-83aacfa3.zappy5.app/about
+https://example.com/about
 Meet the methodology that blends exercise physiology with real empathy. We help men 40+ escape the dieting hamster wheel and build sustainable, lean strength.
 
 ### Contact
-https://longevity-performance-coaching-lab-83aacfa3.zappy5.app/contact
+https://example.com/contact
 Ready to ditch low energy and stubborn fat? Reach out and lock in your personalized 90-day Metabolic Priming strategy. Your comeback starts with one message.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://longevity-performance-coaching-lab-83aacfa3.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://longevity-performance-coaching-lab-83aacfa3.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://longevity-performance-coaching-lab-83aacfa3.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -43,8 +43,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://longevity-performance-coaching-lab-83aacfa3.zappy5.app/contact
-- Endpoint: https://longevity-performance-coaching-lab-83aacfa3.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -82,6 +82,6 @@ Health & Wellness
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://longevity-performance-coaching-lab-83aacfa3.zappy5.app/sitemap.xml
-- Robots: https://longevity-performance-coaching-lab-83aacfa3.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://longevity-performance-coaching-lab-83aacfa3.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
