@@ -40,7 +40,10 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: bbmasifu@gmail.com
+- Phone: 15616540503
+- Phone (tel): tel:15616540503
+- Address: West Palm Beach, FL, 33415, United States
 
 ### Contact form
 - URL: https://example.com/contact
